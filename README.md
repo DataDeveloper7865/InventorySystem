@@ -31,7 +31,7 @@ Add Part Screen
 
 Add Product Screen
 
-![Add Product Screen](AddProductScreen.JPG)
+![Add Product Screen](AddProduct.JPG)
 
 Modify Part Screen
 
