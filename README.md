@@ -10,4 +10,4 @@ enter inventory additions, deletions, and other data from a paper-based system b
 
 ---------------------------------------------------CLASS-DIAGRAM------------------------------------------------------------
 
-![Class Diagram](UML_Class_Diagram.png)
+![Class Diagram](UML_Class_Diagram.JPG)
