@@ -21,4 +21,22 @@ I have written in Java. The requirements/scenario for the school project is foun
 
 ---------------------------------------------------RUNNING-PROGRAM-----------------------------------------------------
 
+Home Screen
 
+![Home Screen](HomeScreen.JPG)
+
+Add Part Screen
+
+![Add Part Screen](AddPartScreen.JPG)
+
+Add Product Screen
+
+![Add Product Screen](AddProductScreen.JPG)
+
+Modify Part Screen
+
+![Modify Part Screen](ModifyPartScreen.JPG)
+
+Modify Product Screen
+
+![Modify Product Screen](ModifyProductScreen.JPG)
