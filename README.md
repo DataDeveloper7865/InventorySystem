@@ -6,7 +6,7 @@ I have written in Java. The requirements/scenario for the school project is foun
 
 ![Scenario](Scenario.JPG)
 
----------------------------------------------------REQUIREMENTS------------------------------------------------------------
+---------------------------------------------------REQUIREMENTS--------------------------------------------------------
 
 ![User Interface Requirements 1](UserInterfaceRequirements1.JPG)
 ![User Interface Requirements 2](UserInterfaceRequirements2.JPG)
@@ -15,6 +15,10 @@ I have written in Java. The requirements/scenario for the school project is foun
 ![User Interface Requirements 5](UserInterfaceRequirements5.JPG)
 ![User Interface Requirements 6](UserInterfaceRequirements6.JPG)
 
----------------------------------------------------CLASS-DIAGRAM------------------------------------------------------------
+---------------------------------------------------CLASS-DIAGRAM-------------------------------------------------------
 
 ![Class Diagram](UML_Class_Diagram.JPG)
+
+---------------------------------------------------RUNNING-PROGRAM-----------------------------------------------------
+
+
