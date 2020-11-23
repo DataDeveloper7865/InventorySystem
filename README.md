@@ -10,5 +10,5 @@ enter inventory additions, deletions, and other data from a paper-based system b
 
 ---------------------------------------------------CLASS-DIAGRAM------------------------------------------------------------
 
-![Class Diagram](https://github.com/DataDeveloper7865/InventorySystem/blob/master/UML_Class_Diagram.png)
+![Class Diagram](https://github.com/DataDeveloper7865/InventorySystem/blob/master/UML_Class_Diagram.png?raw=true)
 Format: ![Alt text](url)
