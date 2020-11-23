@@ -4,7 +4,7 @@ I have written in Java. The requirements/scenario for the school project is foun
 
 ---------------------------------------------------SCENARIO------------------------------------------------------------
 
-![Scenario](Scenario.JPG)
+![Scenario](images/Scenario.JPG)
 
 ---------------------------------------------------REQUIREMENTS--------------------------------------------------------
 
