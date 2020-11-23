@@ -4,17 +4,16 @@ I have written in Java. The requirements/scenario for the school project is foun
 
 ---------------------------------------------------SCENARIO------------------------------------------------------------
 
-You are working for a small manfacturing organization that has outgrown its current inventory system. They have been using a spreadsheet program to manually
-enter inventory additions, deletions, and other data from a paper-based system but would like you to develop a more sophisticated inventory program.
+![Scenario](Scenario.JPG)
 
 ---------------------------------------------------REQUIREMENTS------------------------------------------------------------
 
-![Class Diagram](UserInterfaceRequirements1.JPG)
-![Class Diagram](UserInterfaceRequirements2.JPG)
-![Class Diagram](UserInterfaceRequirements3.JPG)
-![Class Diagram](UserInterfaceRequirements4.JPG)
-![Class Diagram](UserInterfaceRequirements5.JPG)
-![Class Diagram](UserInterfaceRequirements6.JPG)
+![User Interface Requirements 1](UserInterfaceRequirements1.JPG)
+![User Interface Requirements 2](UserInterfaceRequirements2.JPG)
+![User Interface Requirements 3](UserInterfaceRequirements3.JPG)
+![User Interface Requirements 4](UserInterfaceRequirements4.JPG)
+![User Interface Requirements 5](UserInterfaceRequirements5.JPG)
+![User Interface Requirements 6](UserInterfaceRequirements6.JPG)
 
 ---------------------------------------------------CLASS-DIAGRAM------------------------------------------------------------
 
